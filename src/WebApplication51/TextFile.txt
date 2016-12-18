@@ -1,0 +1,5 @@
+﻿2016-12-18 22:47:37.145 +08:00 [Error] a error
+2016-12-18 22:47:37.202 +08:00 [Information] a information
+2016-12-18 22:47:37.211 +08:00 [Warning] a warn
+2016-12-18 22:47:38.045 +08:00 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2016-12-18 22:47:38.238 +08:00 [Information] Request finished in 222.5066ms 200 
